@@ -1,0 +1,7 @@
+public class Demo
+{
+public staticvoid main(String [] args)
+{
+System.out.println("Hello......");
+}
+}
